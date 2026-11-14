@@ -1,0 +1,2 @@
+Featuring a 64-bit quad-core Arm Cortex-A76 processor running at 2.4GHz, Raspberry Pi 5
+delivers a 2–3× increase in CPU performance relative to Raspberry Pi 4. 

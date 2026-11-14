@@ -1,0 +1,10 @@
+# Executables
+a.out
+*.exe
+
+# Object files
+*.o
+
+# Generated database and temporary files
+database.txt
+backup.txt
